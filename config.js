@@ -33,11 +33,11 @@ window.Config = {
   Navi: [
     {
       text: 'Homepage',
-      url: 'https://51sec.org/'
+      url: 'https://pashamajied.my.id//'
     },
     {
       text: 'GitHub',
-      url: 'https://github.com/51sec/uptime-status'
+      url: 'https://github.com/pashamajied/uptime-status'
     }
   ]
 };
